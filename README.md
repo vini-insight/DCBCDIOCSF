@@ -1,14 +1,11 @@
 # DCBCDIOCSF
 DCBCDIOCSF
 
-É um Projeto para ser executado via console ou terminal;
-Assim que começa execução acontecem os seguintes passos:
-
-resumo do algoritmo:
+É um Projeto para ser executado via console ou terminal. Assim que começa execução, o algorítimo faz uma série de tarefas uma após a outra em ordem. Segue o resumo do algoritmo:
 
  - conectar
  - autentencar
- - 1ª coleta (Trends List by WOEID)
+ - 1ª coleta (Trends list by WOEID)
  - 1ª transformação
  - armazenar (via NoSQL MongoDB)
  - limpeza (em memória)
@@ -20,5 +17,5 @@ resumo do algoritmo:
  - manipulação
  - cálculos e análises
  - 1ª mostra de resultados (com gráficos)
- - - outros cálculos e análises
+ - outros cálculos e análises
  - 2ª mostra de resultados (com gráficos)
