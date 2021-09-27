@@ -1,7 +1,7 @@
 # DCBCDIOCSF
 DCBCDIOCSF
 
-É um Projeto para ser executado via console ou terminal. Assim que começa execução, o algorítimo faz uma série de tarefas uma após a outra em ordem. Segue o resumo do algoritmo:
+É um Projeto para ser executado via console ou terminal. Assim que começa execução, o algorítimo faz uma série de tarefas, uma após a outra em ordem. Segue o resumo do algoritmo:
 
  - conectar
  - autentencar
@@ -19,3 +19,5 @@ DCBCDIOCSF
  - 1ª mostra de resultados (com gráficos)
  - outros cálculos e análises
  - 2ª mostra de resultados (com gráficos)
+
+OBS.: caso for executar em localhost, será necessário instalar todas as bibliotecas listadas no código
